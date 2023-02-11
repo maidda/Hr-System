@@ -1,0 +1,52 @@
+
+.backgroundform {
+    padding: 12px;
+    padding-left: 150px;
+    }
+    
+    .backgroundform h1{
+    margin-left: 22px;
+    font-size: 60px;
+    color: white;
+    }
+    .backgroundform h3{
+        margin-left: 12px;
+        font-size: 40px;
+        font-style: italic;
+        color: white;
+        }
+        .btn{
+            width: 100px;
+            height: 30px;
+            background-color: rgb(0, 0, 0);
+            color: rgb(255, 255, 255);
+            border-radius: 10px;
+        }
+        .btn:hover{
+            background-color: rgb(42, 253, 144);
+            color: rgb(110, 246, 230);
+        }
+    input{
+        width: 400px;
+        height: 35px;
+        margin-left: 200px;
+    
+     }
+     .backgroundform{
+        background-color: rgb(159, 159, 224);
+      background-position: center;
+        /* background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXE61VA7Xu9VwBZOHi38ZC11FXiCMLa0h0Q3RuhC8hkQ&s); */
+        background-size: cover;
+        /* padding-top: 20px; */
+        background-repeat: no-repeat;
+        background-size: cover;
+        padding-bottom: 100%;
+        width: 100%;
+        height: 100vh;
+        /* height: 100vh; */
+        /* height:2070px;  */
+        /* position: fixed; */
+        
+     
+      }
+     
